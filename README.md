@@ -22,10 +22,12 @@ url = "https://www.cnet.com"                -> domain name = "cnet"
 Доп. инфо: http://mathworld.wolfram.com/Factorial.html
 
 zeros(6) = 1
-# 6! = 1 * 2 * 3 * 4 * 5 * 6 = 720 --> 1 trailing zero
+
+6! = 1 * 2 * 3 * 4 * 5 * 6 = 720 --> 1 trailing zero
 
 zeros(12) = 2
-# 12! = 479001600 --> 2 trailing zeros
+
+12! = 479001600 --> 2 trailing zeros
 
 Подсказка: вы не должны вычислять факториал. Найдите другой способ найти количество нулей.
 
