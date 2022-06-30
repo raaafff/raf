@@ -29,7 +29,7 @@ zeros(12) = 2
 
 (Используйте - для обозначения зачеркнутой буквы)
 
-Input: bbananana
+Input: bbananana 
 
 Output:
 
