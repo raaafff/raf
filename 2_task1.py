@@ -2,11 +2,11 @@ from math import sqrt
 from itertools import permutations
 
 points = {
-    'point1': [0, 1],
-    'point2': [4, 1],
-    'point3': [7, 2],
-    'point4': [5, 5],
-    'point5': [1, 4]}
+    'point1': [0, 2],
+    'point2': [2, 5],
+    'point3': [5, 2],
+    'point4': [6, 6],
+    'point5': [8, 3]}
 
 start = 'point1'
 
